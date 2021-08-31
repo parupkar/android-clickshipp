@@ -1,0 +1,717 @@
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:70
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:99
+-keep class androidx.core.content.FileProvider { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:489
+-keep class com.braintreepayments.api.AndroidPayActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:219
+-keep class com.braintreepayments.api.BraintreeBrowserSwitchActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:492
+-keep class com.braintreepayments.api.GooglePaymentActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:306
+-keep class com.braintreepayments.api.dropin.AddCardActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:303
+-keep class com.braintreepayments.api.dropin.DropInActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:309
+-keep class com.braintreepayments.api.dropin.VaultManagerActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:496
+-keep class com.braintreepayments.api.internal.AnalyticsIntentService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:300
+-keep class com.braintreepayments.api.threedsecure.ThreeDSecureWebViewActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:144
+-keep class com.clickshipp.shop.activities.IntroScreen { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:179
+-keep class com.clickshipp.shop.activities.Login { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:149
+-keep class com.clickshipp.shop.activities.MainActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:185
+-keep class com.clickshipp.shop.activities.Signup { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:109
+-keep class com.clickshipp.shop.activities.SplashScreen { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:191
+-keep class com.clickshipp.shop.activities.TrackingActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:70
+-keep class com.clickshipp.shop.app.App { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:234
+-keep class com.clickshipp.shop.receivers.AlarmReceiver { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:259
+-keep class com.clickshipp.shop.services.MyFirebaseMessagingService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:266
+-keep class com.clickshipp.shop.services.UpdateLocation { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:525
+-keep class com.facebook.CurrentAccessTokenExpirationBroadcastReceiver { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:204
+-keep class com.facebook.CustomTabActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:312
+-keep class com.facebook.CustomTabMainActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:198
+-keep class com.facebook.FacebookActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:520
+-keep class com.facebook.internal.FacebookInitProvider { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:477
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:483
+-keep class com.google.android.gms.ads.MobileAdsInitProvider { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:422
+-keep class com.google.android.gms.appinvite.PreviewActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:417
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:408
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:442
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:458
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:472
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:453
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:468
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:369
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:377
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:433
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:397
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:447
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:357
+-keep class com.onesignal.BootUpReceiver { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:321
+-keep class com.onesignal.GcmBroadcastReceiver { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:335
+-keep class com.onesignal.GcmIntentJobService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:334
+-keep class com.onesignal.GcmIntentService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:332
+-keep class com.onesignal.NotificationOpenedReceiver { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:355
+-keep class com.onesignal.NotificationRestoreService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:351
+-keep class com.onesignal.PermissionsActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:338
+-keep class com.onesignal.RestoreJobService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:341
+-keep class com.onesignal.RestoreKickoffJobService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:347
+-keep class com.onesignal.SyncJobService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:344
+-keep class com.onesignal.SyncService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:363
+-keep class com.onesignal.UpgradeReceiver { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:503
+-keep class com.paypal.android.sdk.payments.FuturePaymentConsentActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:504
+-keep class com.paypal.android.sdk.payments.FuturePaymentInfoActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:501
+-keep class com.paypal.android.sdk.payments.LoginActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:502
+-keep class com.paypal.android.sdk.payments.PayPalFuturePaymentActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:505
+-keep class com.paypal.android.sdk.payments.PayPalProfileSharingActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:508
+-keep class com.paypal.android.sdk.payments.PayPalService { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:498
+-keep class com.paypal.android.sdk.payments.PaymentActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:500
+-keep class com.paypal.android.sdk.payments.PaymentConfirmActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:499
+-keep class com.paypal.android.sdk.payments.PaymentMethodActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:506
+-keep class com.paypal.android.sdk.payments.ProfileSharingConsentActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:292
+-keep class io.branch.referral.InstallListener { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:533
+-keep class io.card.payment.CardIOActivity { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:536
+-keep class io.card.payment.DataEntryActivity { <init>(); }
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_alert_dialog_title_material.xml:56
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_action_mode_bar.xml:19
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\update_account.xml:156
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\thank_you.xml:51
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\signup.xml:221
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\shipping_methods.xml:27
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\settings.xml:266
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\my_orders.xml:32
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\my_cart.xml:29
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\login.xml:89
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_list_lg.xml:159
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_9_grid_sm.xml:190
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_9_grid_lg.xml:190
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_8_grid_sm.xml:149
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_8_grid_lg.xml:149
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_6_grid_sm.xml:187
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_6_grid_lg.xml:187
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_5_grid_sm.xml:159
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_5_grid_lg.xml:159
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_4_grid_sm.xml:178
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_4_grid_lg.xml:179
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_3_grid_sm.xml:190
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_3_grid_lg.xml:190
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_2_grid_sm.xml:180
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_2_grid_lg.xml:180
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_22_grid_sm.xml:145
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_22_grid_lg.xml:145
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_21_grid_sm.xml:50
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_21_grid_lg.xml:50
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_20_grid_sm.xml:176
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_20_grid_lg.xml:179
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_1_grid_sm.xml:150
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_1_grid_lg.xml:149
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_19_grid_sm.xml:183
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_19_grid_lg.xml:183
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_18_grid_sm.xml:144
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_18_grid_lg.xml:144
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_17_grid_sm.xml:148
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_17_grid_lg.xml:148
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_16_grid_sm.xml:161
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_16_grid_lg.xml:161
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_15_grid_sm.xml:131
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_15_grid_lg.xml:131
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_14_grid_sm.xml:161
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_14_grid_lg.xml:161
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_13_grid_sm.xml:172
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_13_grid_lg.xml:172
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_12_grid_sm.xml:162
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_12_grid_lg.xml:162
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_11_grid_sm.xml:188
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_11_grid_lg.xml:188
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_10_grid_sm.xml:181
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_10_grid_lg.xml:181
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_0_grid_sm.xml:153
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_0_grid_lg.xml:153
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_demo_coupon.xml:10
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_currency.xml:27
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\languages.xml:27
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\f_products_vertical.xml:36
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\download_fragment.xml:32
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\contact_us.xml:140
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\checkout.xml:974
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\address.xml:246
+-keep class androidx.appcompat.widget.AppCompatButton { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\product_description.xml:289
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_grouped_products.xml:82
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_card_cart_items.xml:143
+-keep class androidx.appcompat.widget.AppCompatImageButton { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\order_details.xml:460
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\ab64504d3ef07b686a89d7c159b00cbc\transformed\res\layout\com_facebook_smart_device_dialog_fragment.xml:47
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\ab64504d3ef07b686a89d7c159b00cbc\transformed\res\layout\com_facebook_device_auth_dialog_fragment.xml:45
+-keep class androidx.appcompat.widget.AppCompatImageView { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_list_lg.xml:99
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_9_grid_sm.xml:101
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_9_grid_lg.xml:101
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_8_grid_sm.xml:96
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_8_grid_lg.xml:96
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_6_grid_sm.xml:131
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_6_grid_lg.xml:131
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_5_grid_sm.xml:104
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_5_grid_lg.xml:104
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_4_grid_sm.xml:143
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_4_grid_lg.xml:144
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_3_grid_sm.xml:99
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_3_grid_lg.xml:99
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_2_grid_sm.xml:100
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_2_grid_lg.xml:100
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_22_grid_sm.xml:96
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_22_grid_lg.xml:96
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_21_grid_sm.xml:160
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_21_grid_lg.xml:160
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_20_grid_sm.xml:142
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_20_grid_lg.xml:144
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_1_grid_sm.xml:93
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_1_grid_lg.xml:93
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_19_grid_sm.xml:140
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_19_grid_lg.xml:140
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_18_grid_sm.xml:96
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_18_grid_lg.xml:96
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_17_grid_sm.xml:96
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_17_grid_lg.xml:96
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_16_grid_sm.xml:110
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_16_grid_lg.xml:110
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_15_grid_sm.xml:188
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_15_grid_lg.xml:188
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_14_grid_sm.xml:99
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_14_grid_lg.xml:99
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_13_grid_sm.xml:129
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_13_grid_lg.xml:129
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_12_grid_sm.xml:98
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_12_grid_lg.xml:98
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_11_grid_sm.xml:98
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_11_grid_lg.xml:98
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_10_grid_sm.xml:100
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_10_grid_lg.xml:100
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_0_grid_sm.xml:99
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_0_grid_lg.xml:99
+-keep class androidx.appcompat.widget.AppCompatRatingBar { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_9.xml:104
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_8.xml:67
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_7.xml:109
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_6.xml:102
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\f_products_horizontal.xml:22
+-keep class androidx.appcompat.widget.AppCompatTextView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_dialog_title_material.xml:22
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\search_fragment.xml:19
+-keep class androidx.appcompat.widget.SearchView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\c3f624c3c265ff57d1c610f9d3b61edb\transformed\res\layout\preference_widget_switch_compat.xml:20
+-keep class androidx.appcompat.widget.SwitchCompat { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout-v26\abc_screen_toolbar.xml:37
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\toolbar.xml:2
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_add_card_activity.xml:8
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_screen_simple.xml:25
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\c08d58c2ce0aea225805e9c47d9ada17\transformed\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\scratch_card_dialog.xml:8
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\row_items_download.xml:7
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\row_item_onsale_style6.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\row_item_noti.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\order_details.xml:23
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\my_cart.xml:78
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_list_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_9_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_9_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_8_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_8_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_6_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_6_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_5_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_5_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_4_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_4_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_3_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_3_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_2_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_2_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_22_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_22_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_21_grid_sm.xml:12
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_21_grid_lg.xml:12
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_20_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_20_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_1_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_1_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_19_grid_sm.xml:12
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_19_grid_lg.xml:12
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_18_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_18_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_17_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_17_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_16_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_16_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_15_grid_sm.xml:12
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_15_grid_lg.xml:12
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_14_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_14_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_13_grid_sm.xml:12
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_13_grid_lg.xml:12
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_12_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_12_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_11_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_11_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_10_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_10_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_0_grid_sm.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_0_grid_lg.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_card_orders.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_card_coupons.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_card_addresses.xml:2
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_8.xml:91
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\ab64504d3ef07b686a89d7c159b00cbc\transformed\res\layout\com_facebook_smart_device_dialog_fragment.xml:22
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\ab64504d3ef07b686a89d7c159b00cbc\transformed\res\layout\com_facebook_device_auth_dialog_fragment.xml:22
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\checkout.xml:30
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_vaulted_payment_method_card.xml:2
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\settings.xml:10
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\news.xml:1
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_9.xml:1
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_8.xml:1
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_7.xml:1
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_6.xml:1
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_4.xml:1
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_3.xml:1
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_2.xml:1
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_10.xml:1
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_1.xml:1
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\fragment_me.xml:11
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\cab5d3fc66489ef8b69b337f3c2f2ba7\transformed\res\layout\design_bottom_sheet_dialog.xml:26
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\contact_us.xml:2
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\update_account.xml:10
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\settings.xml:89
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\seller_detail.xml:16
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\search_fragment.xml:40
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\product_description.xml:12
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\order_details.xml:11
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\news_description.xml:12
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\my_cart.xml:51
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_8.xml:10
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_4.xml:10
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_3.xml:10
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\fragment_me.xml:94
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\filter_dialog.xml:98
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\dialog_product_rating_reviews.xml:38
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\contact_us.xml:30
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\checkout.xml:17
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\categories.xml:1
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\address.xml:11
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\about.xml:2
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\08f3cb66212031d03acc522addac3670\transformed\res\layout\abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\activity_main.xml:13
+-keep class androidx.drawerlayout.widget.DrawerLayout { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\c3f624c3c265ff57d1c610f9d3b61edb\transformed\res\layout-v17\preference_widget_seekbar_material.xml:82
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\c3f624c3c265ff57d1c610f9d3b61edb\transformed\res\layout\preference_widget_seekbar.xml:66
+-keep class androidx.preference.UnPressableLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\c3f624c3c265ff57d1c610f9d3b61edb\transformed\res\layout-v21\preference_category_material.xml:33
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\c3f624c3c265ff57d1c610f9d3b61edb\transformed\res\layout-v17\preference_widget_seekbar_material.xml:41
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\c3f624c3c265ff57d1c610f9d3b61edb\transformed\res\layout-v17\preference_material.xml:41
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\c3f624c3c265ff57d1c610f9d3b61edb\transformed\res\layout-v17\preference_dropdown_material.xml:47
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\c3f624c3c265ff57d1c610f9d3b61edb\transformed\res\layout\preference_dropdown.xml:38
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\c3f624c3c265ff57d1c610f9d3b61edb\transformed\res\layout-v17\preference_category_material.xml:33
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\c3f624c3c265ff57d1c610f9d3b61edb\transformed\res\layout\preference.xml:32
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\c3f624c3c265ff57d1c610f9d3b61edb\transformed\res\layout\expand_button.xml:42
+-keep class androidx.preference.internal.PreferenceImageView { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\shipping_methods.xml:12
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\seller_detail.xml:89
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\search_fragment.xml:51
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\product_description.xml:360
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\c3f624c3c265ff57d1c610f9d3b61edb\transformed\res\layout\preference_recyclerview.xml:18
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\points_layout.xml:53
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\order_details.xml:500
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\notification_list.xml:9
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\news_all.xml:17
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\my_orders.xml:10
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\my_cart.xml:61
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\my_addresses.xml:14
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_filters.xml:24
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_checkout_items.xml:92
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_card_item_checkout.xml:104
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_card_cart_items.xml:110
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\filter_dialog.xml:164
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\f_products_vertical.xml:10
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\f_products_horizontal.xml:38
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\download_fragment.xml:10
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\dialog_product_rating_reviews.xml:222
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\checkout.xml:282
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\categories.xml:35
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_vault_management_activity.xml:42
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_drop_in_activity.xml:90
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\news.xml:74
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_2.xml:63
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\banner_style_4.xml:9
+-keep class androidx.viewpager.widget.ViewPager { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_add_card_activity.xml:43
+-keep class com.braintreepayments.api.dropin.view.AddCardView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_enrollment_card.xml:42
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_edit_card.xml:10
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_add_card.xml:21
+-keep class com.braintreepayments.api.dropin.view.AnimatedButtonView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_add_card_activity.xml:50
+-keep class com.braintreepayments.api.dropin.view.EditCardView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_add_card_activity.xml:57
+-keep class com.braintreepayments.api.dropin.view.EnrollmentCardView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\f2acf1bb71de675fbc088527d70cc45c\transformed\res\layout\bt_card_form_fields.xml:48
+-keep class com.braintreepayments.cardform.view.CardEditText { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_edit_card.xml:5
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_add_card.xml:6
+-keep class com.braintreepayments.cardform.view.CardForm { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\f2acf1bb71de675fbc088527d70cc45c\transformed\res\layout\bt_card_form_fields.xml:23
+-keep class com.braintreepayments.cardform.view.CardholderNameEditText { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\f2acf1bb71de675fbc088527d70cc45c\transformed\res\layout\bt_card_form_fields.xml:140
+-keep class com.braintreepayments.cardform.view.CountryCodeEditText { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\f2acf1bb71de675fbc088527d70cc45c\transformed\res\layout\bt_card_form_fields.xml:86
+-keep class com.braintreepayments.cardform.view.CvvEditText { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_enrollment_card.xml:22
+-keep class com.braintreepayments.cardform.view.ErrorEditText { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\f2acf1bb71de675fbc088527d70cc45c\transformed\res\layout\bt_card_form_fields.xml:73
+-keep class com.braintreepayments.cardform.view.ExpirationDateEditText { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\f2acf1bb71de675fbc088527d70cc45c\transformed\res\layout\bt_card_form_fields.xml:153
+-keep class com.braintreepayments.cardform.view.MobileNumberEditText { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\f2acf1bb71de675fbc088527d70cc45c\transformed\res\layout\bt_card_form_fields.xml:112
+-keep class com.braintreepayments.cardform.view.PostalCodeEditText { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\checkout.xml:885
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_add_card.xml:11
+-keep class com.braintreepayments.cardform.view.SupportedCardTypesView { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\banner_style_2.xml:8
+-keep class com.clickshipp.shop.customs.BannerStyle2ViewPager { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\update_account.xml:26
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\signup.xml:43
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\settings.xml:45
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\seller_detail.xml:36
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\row_item_noti.xml:16
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\row_item_category_style6.xml:12
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_sub_categories_6.xml:12
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_reviews.xml:10
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_categories_5.xml:44
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_categories_3.xml:15
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_categories_1_horizontal_small.xml:19
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_categories_1_horizontal.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_categories_1.xml:19
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\fragment_me.xml:46
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\activity_main.xml:89
+-keep class com.clickshipp.shop.customs.CircularImageView { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\address.xml:22
+-keep class com.clickshipp.shop.customs.CustomEditText { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\product_description.xml:377
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_categories_5.xml:57
+-keep class com.clickshipp.shop.customs.CustomListView { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\products.xml:24
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_9.xml:55
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_7.xml:60
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_10.xml:87
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_1.xml:46
+-keep class com.clickshipp.shop.customs.CustomViewPager { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\filter_dialog.xml:33
+-keep class com.crystal.crystalrangeseekbar.widgets.CrystalRangeSeekbar { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\66392d9d03b236b29f5abc981bc0d199\transformed\res\layout\slider_layout.xml:11
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\product_description.xml:39
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\news.xml:39
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\banner_style_6.xml:16
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\banner_style_5.xml:16
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\banner_style_3.xml:16
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\banner_style_1.xml:15
+-keep class com.daimajia.slider.library.Indicators.PagerIndicator { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\product_description.xml:31
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\news.xml:30
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\banner_style_6.xml:9
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\banner_style_5.xml:9
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\banner_style_3.xml:9
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\banner_style_1.xml:8
+-keep class com.daimajia.slider.library.SliderLayout { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\66392d9d03b236b29f5abc981bc0d199\transformed\res\layout\slider_layout.xml:7
+-keep class com.daimajia.slider.library.Tricks.InfiniteViewPager { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_list_lg.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_9_grid_sm.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_9_grid_lg.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_8_grid_sm.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_8_grid_lg.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_6_grid_sm.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_6_grid_lg.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_5_grid_sm.xml:22
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_5_grid_lg.xml:22
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_4_grid_sm.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_4_grid_lg.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_3_grid_sm.xml:22
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_3_grid_lg.xml:22
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_2_grid_sm.xml:22
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_2_grid_lg.xml:22
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_22_grid_sm.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_22_grid_lg.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_21_grid_sm.xml:26
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_21_grid_lg.xml:26
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_20_grid_sm.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_20_grid_lg.xml:22
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_1_grid_sm.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_1_grid_lg.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_19_grid_sm.xml:27
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_19_grid_lg.xml:27
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_18_grid_sm.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_18_grid_lg.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_17_grid_sm.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_17_grid_lg.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_16_grid_sm.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_16_grid_lg.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_15_grid_sm.xml:26
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_15_grid_lg.xml:26
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_14_grid_sm.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_14_grid_lg.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_13_grid_sm.xml:26
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_13_grid_lg.xml:26
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_12_grid_sm.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_12_grid_lg.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_11_grid_sm.xml:22
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_11_grid_lg.xml:22
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_10_grid_sm.xml:23
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_10_grid_lg.xml:23
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_0_grid_sm.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_product_0_grid_lg.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_2.xml:26
+-keep class com.facebook.shimmer.ShimmerFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\53dc21e23b417cea145e4ff49e261c11\transformed\res\layout\intro_layout2.xml:14
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\53dc21e23b417cea145e4ff49e261c11\transformed\res\layout\intro_layout.xml:9
+-keep class com.github.paolorotolo.appintro.AppIntroViewPager { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\settings.xml:249
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\settings.xml:15
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\news.xml:9
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_9.xml:9
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_7.xml:9
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_6.xml:9
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_2.xml:9
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_10.xml:9
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_1.xml:10
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\fragment_me.xml:16
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\contact_us.xml:10
+-keep class com.google.android.material.appbar.AppBarLayout { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\settings.xml:20
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\fragment_me.xml:21
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\contact_us.xml:15
+-keep class com.google.android.material.appbar.CollapsingToolbarLayout { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\activity_main.xml:28
+-keep class com.google.android.material.bottomnavigation.BottomNavigationView { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\update_account.xml:34
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\signup.xml:53
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\my_addresses.xml:19
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\activity_main.xml:36
+-keep class com.google.android.material.floatingactionbutton.FloatingActionButton { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\cab5d3fc66489ef8b69b337f3c2f2ba7\transformed\res\layout\design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\cab5d3fc66489ef8b69b337f3c2f2ba7\transformed\res\layout\design_text_input_password_icon.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\cab5d3fc66489ef8b69b337f3c2f2ba7\transformed\res\layout\design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\cab5d3fc66489ef8b69b337f3c2f2ba7\transformed\res\layout\design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\activity_main.xml:50
+-keep class com.google.android.material.navigation.NavigationView { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\cab5d3fc66489ef8b69b337f3c2f2ba7\transformed\res\layout\mtrl_layout_snackbar.xml:18
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\cab5d3fc66489ef8b69b337f3c2f2ba7\transformed\res\layout\design_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\cab5d3fc66489ef8b69b337f3c2f2ba7\transformed\res\layout\mtrl_layout_snackbar_include.xml:18
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\cab5d3fc66489ef8b69b337f3c2f2ba7\transformed\res\layout\design_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\products.xml:10
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\news.xml:56
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_9.xml:42
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_7.xml:47
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_2.xml:46
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_10.xml:74
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\homepage_1.xml:33
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\banner_style_2.xml:15
+-keep class com.google.android.material.tabs.TabLayout { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_enrollment_card.xml:14
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\f2acf1bb71de675fbc088527d70cc45c\transformed\res\layout\bt_card_form_fields.xml:15
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\seller_detail.xml:54
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\product_description.xml:214
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\layout_reviews.xml:35
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\dialog_rate_product.xml:35
+-keep class hyogeun.github.com.colorratingbarlib.ColorRatingBar { <init>(...); }
+
+# Referenced at D:\Android_Projects\android-clickshipp\app\src\main\res\layout\scratch_card_dialog.xml:56
+-keep class in.myinnos.androidscratchcard.ScratchCard { <init>(...); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_drop_in_activity.xml:2
+-keepclassmembers class * { *** onBackgroundClicked(android.view.View); }
+
+# Referenced at C:\Users\User\.gradle\caches\transforms-3\31eb77584397be7b08abe9fbb2bac40b\transformed\res\layout\bt_drop_in_activity.xml:63
+-keepclassmembers class * { *** onVaultEditButtonClick(android.view.View); }
+

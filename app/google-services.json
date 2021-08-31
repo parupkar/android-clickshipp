@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "565929432065",
+    "project_id": "click-shipp",
+    "storage_bucket": "click-shipp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565929432065:android:fc2a48ce18f65622e95c00",
+        "android_client_info": {
+          "package_name": "com.clickshipp.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565929432065-qjmn3hn3k3obiift0r9q92hcrg0pff3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clickshipp.shop",
+            "certificate_hash": "f893f0239d1ed0d4a6d38b2dccd6e59f34f7e3ec"
+          }
+        },
+        {
+          "client_id": "565929432065-7kffqrf6jmemvpn5d57ilrtan163l8fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9kWCluc7SDvyj1r2UU-4qEX3__GOI7ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565929432065-7kffqrf6jmemvpn5d57ilrtan163l8fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: hyogeun.github.com.colorratingbar:ColorRatingBar:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2e26826df9273fd86127547149d7f17b/transformed/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2e26826df9273fd86127547149d7f17b/transformed/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2e26826df9273fd86127547149d7f17b/transformed/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

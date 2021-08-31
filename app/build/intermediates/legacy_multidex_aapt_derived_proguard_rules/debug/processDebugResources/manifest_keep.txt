@@ -1,0 +1,4 @@
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:70
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\Android_Projects\android-clickshipp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:70
+-keep class com.clickshipp.shop.app.App { <init>(); }
